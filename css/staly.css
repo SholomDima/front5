@@ -1,6 +1,9 @@
 header.header {
     outline: 3px solid red;
 }
+body {
+    background-color: blanchedalmond;
+} 
 
 header.header:after {
     content: '';
